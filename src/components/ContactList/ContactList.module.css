@@ -6,13 +6,12 @@
     font-size: 15px;
     font-weight: 600;
     padding: 0;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
   }
   
   .contactItemBtn {
     width: 10vw;
     max-width: 100px;
-    color: #fff;
+    color: white;
     font-size: 10px;
     padding: 5px 0;
     margin: 5px;
