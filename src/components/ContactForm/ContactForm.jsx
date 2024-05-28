@@ -17,7 +17,7 @@ export const ContactForm = ({ handleSubmit }) => {
 
   const handleFormSubmit = (e) => {
     e.preventDefault();
-    handleSubmit({ name, number }); // Destructuring objects
+    handleSubmit({ name, number });
     setName('');
     setNumber('');
   };
